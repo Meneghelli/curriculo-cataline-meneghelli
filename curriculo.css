@@ -9,9 +9,14 @@
 
 h2 {
   text-align: left;
+  margin-bottom: 5px;
 }
 .head p {
   margin: 11px;
+}
+
+.professional-resume p {
+  text-align: justify;
 }
 
 .cargo {
@@ -37,4 +42,24 @@ h2 {
   padding-left: 80px;
   margin: 0;
   line-height: 35px;
+}
+
+.space-element {
+  padding-top: 20px;
+}
+
+.divider {
+  border-bottom: groove;
+}
+
+.skills ol {
+  text-align: justify;
+}
+
+.skills ol li {
+  font-weight: bold;
+}
+
+.topics li {
+  list-style: circle;
 }
